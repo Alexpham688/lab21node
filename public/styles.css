@@ -1,0 +1,30 @@
+h1 {
+ font-size: 3em;
+ font-family: helvetica times serif;
+ text-align: center;
+}
+.box {
+  background-image:url("image.jpg");
+  border: 2px solid orange;
+  text-align:center;
+  height: 300px;
+  width: 470px;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+  font-family: comic sans ms;
+  margin:70px;
+
+}
+input {
+  color:blue;
+  font-weight: 200px;
+  font-size:3em;
+  font-family: comic sans ms;
+}
+body {
+  background-image: url("image2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
